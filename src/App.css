@@ -1,31 +1,21 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.add {
+  background-color: red ;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.delete {
+  background-color: red;
+  color: white;
 }
 
-.heart {
-  color: #ff0000;
+.celek {
+  
+  border: 2px solid black;
+  width: 300px;
+  margin-left: 550px;
+  justify-content: center;
 }
 
-.small {
-  font-size: 0.75rem;
+.obsah {
+  justify-content: center;
 }
